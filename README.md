@@ -1,7 +1,14 @@
 # Case Study 1
 
 ![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png)
+
 # Case Study 2
+
+| year |	Total revenue|	
+|--- | --- |
+|2015|	29036749.19|
+|2016|	25730943.59|
+|2017|	31417495.03|
 
 | |2016|	2017
 |--- | --- | --- 
@@ -17,6 +24,3 @@
 |lost_customer	|171710.00|	183687.00
 
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
