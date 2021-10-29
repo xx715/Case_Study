@@ -1,7 +1,7 @@
 # Case Study 1
 ## Test result visualization
 predicted interest rate v.s. true interest rate
-![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png)
+![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png){:height="50%" width="50%"}
 
 ![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.42.26%20PM.png)
 ![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.42.44%20PM.png)
