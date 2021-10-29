@@ -1,4 +1,11 @@
 # Case Study 1
+## Mean squared error result for different models
+
+| Model |	Linear Regression-validation|	Random Forest Regressor-baseline validation|Random Forest Regressor - validation|Random Forest Regressor - test|
+|--- | --- |---|---|
+|MSE|	0.156|0.0950|0.0898|0.0783|
+
+
 ## Test result visualization
 ### predicted interest rate v.s. true interest rate
 ![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png)
