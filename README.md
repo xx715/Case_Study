@@ -4,6 +4,7 @@
 # Case Study 2
 ```
 | |2016|	2017
+|--- | --- | --- 
 |total_revenue|	25730943.59|	31417495.03
 |new_customer_revenue	|18245491.01	|28776235.04
 |existing_customer_growth	|20335.46|	20611.34
