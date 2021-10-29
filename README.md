@@ -1,6 +1,6 @@
 # Case Study 1
 
-< img width="300" height="200" src="https://github.com/xx715/Case_Study/blob/main/Screenshot%202021-10-28%20at%2011.27.41%20PM.png" alt="age-gender_race/3 age classes/ Efficient_NetB6"/>
+< img width="300" height="200" src="https://github.com/xx715/Case_Study/blob/main/Screenshot%202021-10-28%20at%2011.27.41%20PM.png">
 
 # Case Study 2
 ```
