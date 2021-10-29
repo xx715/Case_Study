@@ -1,6 +1,6 @@
 # Case Study 1
 
-![alt text](<img width="300" height="200" https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png>)
+![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png)
 # Case Study 2
 ```
 2016	2017
