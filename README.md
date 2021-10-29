@@ -2,7 +2,7 @@
 ## Mean squared error result for different models
 
 | Model |	Linear Regression-validation|	Random Forest Regressor-baseline validation|Random Forest Regressor - validation|Random Forest Regressor - test|
-|--- | --- |---|---|
+|--- | --- |---|---|---|
 |MSE|	0.156|0.0950|0.0898|0.0783|
 
 
