@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/xx715/Case_Study/blob/main/img/Screenshot%202021-10-28%20at%2011.27.41%20PM.png)
 # Case Study 2
-```
+
 | |2016|	2017
 |--- | --- | --- 
 |total_revenue|	25730943.59|	31417495.03
@@ -15,7 +15,7 @@
 |total_customer_prior	|204646.00	|249987.00
 |new_customer	|145062.00	|229028.00
 |lost_customer	|171710.00|	183687.00
-```
+
 
 | Attempt | #1 | #2 |
 | :---: | :---: | :---: |
